@@ -18,3 +18,6 @@ was pulled from.
 
 # txt file
 This contains data that was pulled for the word cloud.
+
+# Powerpoint file
+The powerpoint file is included in this github repository.
