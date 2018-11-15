@@ -17,4 +17,4 @@ This file contains data used for the word cloud in the tableau dashboard. This i
 was pulled from.
 
 # txt file
-This contains data that was pulled. It is the raw that was originally used for the word cloud.
+This contains data that was pulled for the word cloud.
